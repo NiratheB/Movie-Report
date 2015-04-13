@@ -7,4 +7,3 @@ For each movie name,
     Take the rating and genre and release year from the page.
     Output to a table in html which is sortable using javascript.
 end
-    
